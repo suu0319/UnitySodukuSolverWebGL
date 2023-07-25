@@ -8,5 +8,5 @@
 ## Preview
 ![image](https://github.com/suu0319/UnitySodukuSolver/assets/59763965/b15ff344-a039-4197-98fd-31a98f1cb779)
 
-## WebGL
+## GitHub Page
 [連結](https://suu0319.github.io/UnitySodukuSolverWebGL/)
