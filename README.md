@@ -1,6 +1,6 @@
 # UnitySodukuSolverWebGL
 ## About
-I combined [my Sudoku project](https://github.com/suu0319/Sudoku) with Unity to create a Sudoku generator and solver, and used GitHub and WebGL to turn it into a web page.
+Integrates [my Sudoku project](https://github.com/suu0319/Sudoku) with Unity to create a Sudoku generator and solver. The project is built using GitHub and WebGL to be accessible as a web application.
 
 ## UnityProject
 [Link](https://suu0319.github.io/UnitySodukuSolverWebGL/](https://github.com/suu0319/UnitySodukuSolver))
